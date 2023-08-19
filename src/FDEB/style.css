@@ -58,3 +58,15 @@ g#voronoi {
   fill: white;
   text-shadow: 1px 1px 0 #252525, 1px -1px 0 #252525, -1px 1px 0 #252525, -1px -1px 0 #252525;
 }
+
+#months{
+  font-family: sans-serif;
+  font-size: 1000px;
+}
+
+#airportText{
+  font-weight: bold;
+  color: blue;
+  font-size: 17px;
+  font-family: sans-serif;
+}
